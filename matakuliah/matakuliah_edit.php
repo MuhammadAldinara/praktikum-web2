@@ -40,7 +40,7 @@ while ($data = mysqli_fetch_array($result)) {
                     <div class="form-group">
                         <label for="semester" class="col-sm-2 control-label">semester</label>
                         <div class="col-sm-10">
-                            <input type="semester" class="form-control" name="semester" value="<?php echo $semester; ?>" required>
+                            <input type="text" class="form-control" name="semester" value="<?php echo $semester; ?>" required>
                         </div>
                     </div>
                     <div class="form-group">

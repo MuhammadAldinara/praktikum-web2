@@ -24,10 +24,12 @@
                 ?>
                 <thead>
                     <tr>
+                        <th>No</th>
                         <th>kode</th>
                         <th>Nama</th>
                         <th>sks</th>
                         <th>semester</th>
+                        <th></th>
                     </tr>
                 </thead>
                 <tbody>
